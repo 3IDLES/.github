@@ -66,10 +66,3 @@
 </table>
 
 <br><br>
-
-## 🏃‍♂️ 우리들의 스프린트 회고
-
-<img width="1132" alt="image" src="https://github.com/user-attachments/assets/2d36953e-3ad7-4302-bec6-0bfab11205a0">
-
-[회고 보러가기](https://grove-maraca-55d.notion.site/f5756a8f29e549358f87872802293cda?pvs=4)
-<br><br>
