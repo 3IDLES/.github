@@ -1,17 +1,16 @@
-# 👋 반갑습니다! 세 얼간이 입니다!
+# 👋 All is Well!! 안녕하세요, 세 얼간이 팀 입니다! 
 
 <img width="1920" alt="ppt_표지" src="https://github.com/user-attachments/assets/a022bac8-ad7e-4948-a796-7b1522c617dd">
+
 <br>
-<img src="https://github.com/user-attachments/assets/c99ac7d2-206e-409a-a184-6d28f06c7fe7" width=200/>
-<img src="https://github.com/user-attachments/assets/8912d291-6f49-4bd1-91af-bf91927a5ceb" width=200/>
-<br>
-<img src="https://github.com/user-attachments/assets/cee77003-f877-445c-934a-2552f8063391" width=200/>
-<img src="https://github.com/user-attachments/assets/7a9bf9e7-c30e-475f-8461-94a86f6c2e0e" width=200/>
-<img src="https://github.com/user-attachments/assets/71c6d9e8-2d8f-4579-9424-956ed936b6eb" width=200/>
-<br>
-<img src="https://github.com/user-attachments/assets/22afdfea-6f4b-46e0-8268-d6918bc72557" width=200/>
-<img src="https://github.com/user-attachments/assets/63d4dd49-c37d-43c2-a6e3-6f6cfe911f8e" width=200/>
-<img src="https://github.com/user-attachments/assets/a3c1c1e9-d288-4768-ab47-eee4fe71426c" width=200/>
+<img width="200" alt="1" src="https://github.com/user-attachments/assets/c41372b2-521d-4d56-b0d5-ca05cec79e16">
+<img width="200" alt="2" src="https://github.com/user-attachments/assets/6e48d097-12cb-4180-8ab2-dd5025597090">
+<img width="200" alt="6" src="https://github.com/user-attachments/assets/d1f1660e-4395-413e-b836-826d39a188e7">
+<img width="200" alt="7" src="https://github.com/user-attachments/assets/03bd37c7-685f-4544-b8e3-73054b834e02">
+<img width="200" alt="1016" src="https://github.com/user-attachments/assets/f7b7ebd7-8d85-4ea4-8131-5340d525d523">
+<img width="200" alt="1018" src="https://github.com/user-attachments/assets/653905af-81ac-4fb7-a42c-a193ec5ccaeb">
+<img width="200" alt="1019" src="https://github.com/user-attachments/assets/8c04429b-8b8a-4eb0-a4e1-024ae77215dc">
+<img width="200" alt="1020" src="https://github.com/user-attachments/assets/2eec1577-26a3-4daf-9f15-9fa72f00b97c">
 
 <br><br>
 
