@@ -66,11 +66,18 @@
 <img src="https://avatars.githubusercontent.com/u/59856002?v=4" width="120px" />
 </a>
 </td>
+<td>
+<a href="https://github.com/mjj111">
+<img src="https://avatars.githubusercontent.com/u/86913355?v=4" width="120px" />
+</a>
+</td>
 </tr>
 <tr>
 <td><b>유원준</b></td>
+<td><b>김명준</b></td>
 </tr>
 <tr>
+<td><b>BE Developer</b></td>
 <td><b>BE Developer</b></td>
 </tr>
 </table>
